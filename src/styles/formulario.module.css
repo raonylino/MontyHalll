@@ -1,0 +1,15 @@
+.formalario {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.link {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    flex: 1;
+    margin: 0;
+}
